@@ -1,2 +1,2 @@
 New line for file1.txt
-Another line
+Change line in the file
