@@ -1,0 +1,2 @@
+New line for file1.txt
+Another line
